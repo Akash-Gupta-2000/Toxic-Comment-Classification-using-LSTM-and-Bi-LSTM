@@ -10,10 +10,12 @@ Download the Dataset from [here](https://www.kaggle.com/c/jigsaw-toxic-comment-c
 Download the word embeddings from [here](https://nlp.stanford.edu/projects/glove/)
 
 The following figure shows the distribution of the comments into six labels according to the length.
+<img src="https://github.com/Akash-Gupta-2000/Toxic-Comment-Classification-using-LSTM-and-Bi-LSTM/blob/master/images/Distribution_graph.JPG">
 
 ## Proposed Model
 
 The following figure shows the proposed model of this project work.
+<img src="https://github.com/Akash-Gupta-2000/Toxic-Comment-Classification-using-LSTM-and-Bi-LSTM/blob/master/images/Proposed_Model.JPG">
 
 ### Found this project useful? :heart:
 
